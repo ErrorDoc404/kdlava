@@ -1,0 +1,22 @@
+{
+  "name": "kdlava",
+  "version": "1.0.0",
+  "description": "a lavalink connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErrorDoc404/kdlava.git"
+  },
+  "keywords": [
+    "lavalink"
+  ],
+  "author": "ErrorDoc404",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErrorDoc404/kdlava/issues"
+  },
+  "homepage": "https://github.com/ErrorDoc404/kdlava#readme"
+}
